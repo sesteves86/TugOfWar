@@ -1,0 +1,6 @@
+c:\users\sergio\documents\visual studio 2015\Projects\TugOfWar\TugOfWar\bin\Debug\TugOfWar.exe.config
+c:\users\sergio\documents\visual studio 2015\Projects\TugOfWar\TugOfWar\bin\Debug\TugOfWar.exe
+c:\users\sergio\documents\visual studio 2015\Projects\TugOfWar\TugOfWar\bin\Debug\TugOfWar.pdb
+c:\users\sergio\documents\visual studio 2015\Projects\TugOfWar\TugOfWar\obj\Debug\TugOfWar.csprojResolveAssemblyReference.cache
+c:\users\sergio\documents\visual studio 2015\Projects\TugOfWar\TugOfWar\obj\Debug\TugOfWar.exe
+c:\users\sergio\documents\visual studio 2015\Projects\TugOfWar\TugOfWar\obj\Debug\TugOfWar.pdb
